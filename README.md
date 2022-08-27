@@ -16,12 +16,12 @@ When I'm not coding or moving pixels, you can find me at the beach or the soccer
 
 # 🧑‍💻 My open source repos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyAPI&theme=dark)](https://github.com/nerodacles/PharmacyAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyApp&theme=dark)](https://github.com/nerodacles/PharmacyApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=librephotos&theme=dark)](https://github.com/nerodacles/librephotos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=librephotos-frontend&theme=dark)](https://github.com/nerodacles/librephotos-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=librephotos-mobile&theme=dark)](https://github.com/nerodacles/librephotos-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=librephotos-docker&theme=dark)](https://github.com/nerodacles/librephotos-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=BibliotecaVue&theme=dark)](https://github.com/nerodacles/BibliotecaVue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=docker-traefik-cloudflare-companion&theme=dark)](https://github.com/nerodacles/docker-traefik-cloudflare-companion)
 
 # 📊 My Stats
 
