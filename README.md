@@ -18,10 +18,9 @@ When I'm not coding or moving pixels, you can find me at the beach or the soccer
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyAPI&theme=dark)](https://github.com/nerodacles/PharmacyAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyApp&theme=dark)](https://github.com/nerodacles/PharmacyApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=librephotos&theme=dark)](https://github.com/nerodacles/librephotos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=librephotos-mobile&theme=dark)](https://github.com/nerodacles/librephotos-mobile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=librephotos-docker&theme=dark)](https://github.com/nerodacles/librephotos-docker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=BibliotecaVue&theme=dark)](https://github.com/nerodacles/BibliotecaVue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyADMIN&theme=dark)](https://github.com/nerodacles/PharmacyADMIN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyDB&theme=dark)](https://github.com/nerodacles/PharmacyDB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=docker-github-runner&theme=dark)](https://github.com/nerodacles/docker-github-runner)
 
 # 📊 My Stats
 
