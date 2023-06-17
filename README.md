@@ -25,10 +25,8 @@ When I'm not coding or moving pixels, you can find me at the beach or the soccer
 # 📊 My Stats
 
 [![nerodacles's github stats](https://github-readme-stats.vercel.app/api?username=nerodacles&show_icons=true&count_private=true&theme=dark&hide=stars)](https://github.com/nerodacles)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nerodacles&theme=dark&count_private=true&theme=dark)](https://github.com/nerodacles)
-
-[![Nerodacles's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nerodacles&theme=dark)](https://github.com/nerodacles)
+<!---       [![Nerodacles's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nerodacles&theme=dark)](https://github.com/nerodacles)        -->
 
 # 😉 My used Langs
 
