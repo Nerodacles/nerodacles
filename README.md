@@ -2,11 +2,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/nerodacles?logo=GitHub&style=for-the-badge)](https://github.com/nerodacles)
-[![GitHub Stars](https://img.shields.io/github/stars/nerodacles?logo=github&style=for-the-badge)](https://github.com/nerodacles)
-[![Twitter Followers](https://img.shields.io/twitter/follow/nerodacles?color=0E7FC0&label=follow&logo=twitter&style=for-the-badge)](https://twitter.com/nerodacles)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/nerodacles?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/nerodacles)
-[![Support me on Paypal](https://img.shields.io/endpoint?color=blue&label=paypal&logo=paypal&logoColor=blue&style=for-the-badge&url=https://api.jsonbin.io/b/6219d87e24f17933e49f7425/3)](https://paypal.me/juanmacana)
+
+<div id="mielda" align="center">
+  [![GitHub followers](https://img.shields.io/github/followers/nerodacles?logo=GitHub&style=for-the-badge)](https://github.com/nerodacles)
+  [![GitHub Stars](https://img.shields.io/github/stars/nerodacles?logo=github&style=for-the-badge)](https://github.com/nerodacles)
+  [![Twitter Followers](https://img.shields.io/twitter/follow/nerodacles?color=0E7FC0&label=follow&logo=twitter&style=for-the-badge)](https://twitter.com/nerodacles)
+  [![GitHub Sponsors](https://img.shields.io/github/sponsors/nerodacles?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/nerodacles)
+  [![View Counter](https://komarev.com/ghpvc/?username=nerodacles&label=Profile%20views&color=adadad&style=for-the-badge )](https://github.com/nerodacles)
+  [![Support me on Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/juanmacana)
+</div>
+
 
 # 👋 Hi!
 
@@ -21,7 +26,6 @@ When I'm not coding or moving pixels, you can find me at the beach or the soccer
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyADMIN&theme=dark)](https://github.com/nerodacles/PharmacyADMIN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyDB&theme=dark)](https://github.com/nerodacles/PharmacyDB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=docker-github-runner&theme=dark)](https://github.com/nerodacles/docker-github-runner)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nerodacles&label=Profile%20views&color=adadad&style=flat-square" alt="nerodacles" /> </p>
 # 📊 My Stats
 
 [![nerodacles's github stats](https://github-readme-stats.vercel.app/api?username=nerodacles&show_icons=true&count_private=true&theme=dark&hide=stars)](https://github.com/nerodacles)
