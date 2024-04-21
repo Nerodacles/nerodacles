@@ -21,7 +21,7 @@ When I'm not coding or moving pixels, you can find me at the beach or the soccer
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyADMIN&theme=dark)](https://github.com/nerodacles/PharmacyADMIN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=PharmacyDB&theme=dark)](https://github.com/nerodacles/PharmacyDB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nerodacles&repo=docker-github-runner&theme=dark)](https://github.com/nerodacles/docker-github-runner)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nerodacles&label=Profile%20views&color=adadad&style=flat-square" alt="nerodacles" /> </p>
 # 📊 My Stats
 
 [![nerodacles's github stats](https://github-readme-stats.vercel.app/api?username=nerodacles&show_icons=true&count_private=true&theme=dark&hide=stars)](https://github.com/nerodacles)
