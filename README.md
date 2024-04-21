@@ -5,7 +5,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/nerodacles?logo=GitHub&style=for-the-badge)](https://github.com/nerodacles)
 [![GitHub Stars](https://img.shields.io/github/stars/nerodacles?logo=github&style=for-the-badge)](https://github.com/nerodacles)
-[![Twitter Followers](https://img.shields.io/twitter/follow/nerodacles?color=0E7FC0&label=follow&logo=twitter&style=for-the-badge)](https://twitter.com/nerodacles)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/nerodacles?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/nerodacles)
 [![View Counter](https://komarev.com/ghpvc/?username=nerodacles&label=Profile%20views&color=adadad&style=for-the-badge )](https://github.com/nerodacles)
 [![Support me on Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/juanmacana)
