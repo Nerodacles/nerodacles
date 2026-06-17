@@ -4,17 +4,24 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/nerodacles?logo=GitHub&style=for-the-badge)](https://github.com/nerodacles)
-[![GitHub Stars](https://img.shields.io/github/stars/nerodacles?logo=github&style=for-the-badge)](https://github.com/nerodacles)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/nerodacles?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/nerodacles)
-[![View Counter](https://komarev.com/ghpvc/?username=nerodacles&label=Profile%20views&color=adadad&style=for-the-badge)](https://github.com/nerodacles)
+[![Portfolio](https://img.shields.io/badge/Website-infra.com.do-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://infra.com.do)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-canahuate)
 [![Support me on Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/juanmacana)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/nerodacles?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/nerodacles)
+
+<br>
+
+[![View Counter](https://komarev.com/ghpvc/?username=nerodacles&label=Profile%20views&color=adadad&style=for-the-badge)](https://github.com/nerodacles)
+[![GitHub Stars](https://img.shields.io/github/stars/nerodacles?logo=github&style=for-the-badge)](https://github.com/nerodacles)
 
 </div>
 
 # 👋 Hi! I'm Juanma Canahuate 
 
-I'm a **Cloud, DevOps, and Site Reliability Engineer (SRE)**, and an avid **HomeLab enthusiast** based in the Dominican Republic. I specialize in designing highly available enterprise infrastructure, managing complex container orchestrations, and building robust, scalable deployment pipelines.
+* ⚙️ **Cloud, DevOps, & Site Reliability Engineer (SRE)**.
+* 🌍 Based in the Dominican Republic.
+* 🖥️ Avid **HomeLab enthusiast** running enterprise-grade self-hosted infrastructure.
+* 🚀 Specializing in designing highly available systems, managing complex container orchestrations, and building robust, scalable deployment pipelines.
 
 ### 🛠️ What I'm currently working on:
 * **Infrastructure & Orchestration:** Building and maintaining enterprise-grade environments using OpenShift, and managing automated Kubernetes deployments with RKE2 and Rancher.
@@ -56,14 +63,9 @@ I'm a **Cloud, DevOps, and Site Reliability Engineer (SRE)**, and an avid **Home
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nerodacles&show_icons=true&count_private=true&theme=dark&hide=stars" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerodacles&theme=dark&count_private=true" alt="GitHub Streak"/>
-</div>
+  </div>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerodacles&theme=dark&layout=compact&langs_count=8" alt="Top Languages"/>
 </div>
-
 <br>
-<div align="center">
-  <a href="https://portfolio.jmcv.codes">🌐 Check out my Portfolio</a>
-</div>
